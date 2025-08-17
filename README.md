@@ -22,6 +22,3 @@ This is a front-end clone of the Flipkart homepage, created using only **HTML** 
 
 ## 📌 Note
 This project is not connected to any backend or real database. It is purely for practice and demonstration purposes.
-
----
-
