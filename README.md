@@ -17,6 +17,9 @@ This is a front-end clone of the Flipkart homepage, created using only **HTML** 
 1. Clone this repository.
 2. Open the `index.html` file in any web browser.
 
+## 📷 Screenshots
+[Click here to view screenshots of the flipkart clone homepage] (flipkart-clone-preview.pdf)
+
 ## 📌 Note
 This project is not connected to any backend or real database. It is purely for practice and demonstration purposes.
 
